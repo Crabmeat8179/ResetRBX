@@ -1,5 +1,5 @@
 # ResetRBX
-One applcation to reset roblox while keeping your settings
+One applcation to reset Roblox while keeping your settings
 
 Made in C#
 
